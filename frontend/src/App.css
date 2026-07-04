@@ -1,0 +1,7 @@
+/* App-specific custom utilities (if any) */
+.app-container {
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
