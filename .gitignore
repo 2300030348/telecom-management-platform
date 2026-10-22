@@ -1,0 +1,21 @@
+# Maven
+backend/target/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Node / Frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# Eclipse / IDE
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+.vscode/
